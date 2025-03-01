@@ -1,5 +1,5 @@
 # AI-ML-Projects
-A repository to store links to relevant AI-ML projects that I have contributed to or written myself over the last few years. Most of these are stored in google colab notebooks that can be accessed via the links provided.
+A repository to store links to relevant AI-ML projects that I have contributed to or written myself over the last few years. These are just a few projects that I have direct access to and no conflicts with posting publicly for reference, but is certainly not exhaustive of the types of architectures I have built and data I have analyzed. Most of these are stored in google colab notebooks that can be accessed via the links provided.
 
 
 ## Star Trek Neural Network
