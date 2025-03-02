@@ -18,4 +18,18 @@ Regarding the anomaly detection, we explored the use of autoencoders for detecti
 
 [Autoencoder Report on Dimensionality Reduction on Simulated Data and Anomaly Detection on Brain MRI Scans and Chest X-rays](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Autoeconder_Paper.pdf)
 
+## Modeling Traffic Flow, Shocks, Avian Flu Disease Spread, Duffing Equation Solution Approximation
+
+Across a few different courses I did a lot of mathematical modeling with ordinary and partial differential equations, stochastic differential equations, dynamical systems, etc. in order to create somewhat realistic models of real world processes that can be simplified to manageable differential equation systems. Additionally, I have done a decent amount of work in differential equation approximation both for specific families of differential equations, but also more generally, such as the various methods of averaging for solving non-linear differential equations. A few papers I have co-written are linked below.
+
+[Avian Flu SIVA Compartmental Model](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Avian_Flu_SIVA_Model_paper.pdf)
+
+[Modeling Isotropic Walks Comparing PDE and Stochastic DE models](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Isotropic_walks_PDE_vs_Stochastic.pdf)
+
+[Observing Shocks in Traffic Flow DE Modeling](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Shocks_Traffic_Flow.pdf)
+
+[Observing Shocks in Traffic Flow DE Modeling Part 2](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Shocks_Traffic_Flow_V2.pdf)
+
+[Approximating Solutions to the Duffing Equation](https://github.com/E-Lyngberg/AI-ML-Projects/blob/main/Duffing_Equation_Modeling_report.pdf)
+
 
